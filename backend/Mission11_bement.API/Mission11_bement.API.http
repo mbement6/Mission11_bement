@@ -1,0 +1,6 @@
+@Mission11_bement.API_HostAddress = http://localhost:5025
+
+GET {{Mission11_bement.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
